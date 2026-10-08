@@ -1,2 +1,6 @@
 # git-training-2026
-Git Training for Stratpoint
+My practice repo for Git Training 2026
+
+Name: Nico Antonio L. Montero
+
+Date Started: October 8, 2026
